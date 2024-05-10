@@ -1,0 +1,223 @@
+Geography:Rivers of the World
+yesno:Is the Nile River the longest river in the world?:false
+multiplechoice:Which river is known as the "Father of Rivers"?:1
+Amazon River:Ganges River:Mississippi River:Indus River
+multiplechoice:The Yangtze River is the longest river in which country?:0
+China:Brazil:India:Russia
+multiplechoice:Which river forms part of the border between the United States and Mexico?:1
+Colorado River:Rio Grande:Columbia River:Missouri River
+multiplechoice:The Danube River flows through which European capital city?:2
+Paris:Rome:Vienna:Berlin
+-
+Geography:Capitals of the World
+fillintheblank:What is the capital of Canada?:Ottawa
+multiplechoice:Which city is the capital of Argentina?:0
+Buenos Aires:Rio de Janeiro:Santiago:Lima
+fillintheblank:What is the capital of New Zealand?:Wellington
+multiplechoice:The capital of South Africa is...:2
+Johannesburg:Cape Town:Pretoria:Durban
+fillintheblank:What is the capital of Thailand?:Bangkok
+-
+Geography:Mountain Ranges
+multiplechoice:Which mountain range separates Europe from Asia?:3
+Andes:Rocky Mountains:Alps:Ural Mountains
+multiplechoice:Mount Everest is part of which mountain range?:0
+Himalayas:Appalachian Mountains:Rocky Mountains:Andes
+multiplechoice:The Sierra Nevada mountain range is located in which country?:0
+United States:Spain:Mexico:Italy
+multiplechoice:Which mountain range is the longest in the world?:0
+Andes:Rocky Mountains:Alps:Ural Mountains
+multiplechoice:The Atlas Mountains are located in which continent?:0
+Africa:Europe:Asia:South America
+-
+Geography:Oceans and Seas
+multiplechoice:The Indian Ocean borders which continent to the west?:0
+Africa:Asia:Europe:Australia
+multiplechoice:The Gulf of Mexico is an extension of which ocean?:0
+Atlantic Ocean:Pacific Ocean:Indian Ocean:Arctic Ocean
+yesno:The Caspian Sea is the largest inland body of water in the world:true
+multiplechoice:The Dead Sea, known for its high salt content, is bordered by which two countries?:0
+Israel and Jordan:Israel and Lebanon:Jordan and Iraq:Israel and Egypt
+multiplechoice:Which ocean is the largest by area?:0
+Pacific Ocean:Atlantic Ocean:Indian Ocean:Southern Ocean
+-
+Geography:Countries and Continents
+multiplechoice:Which country is the smallest by land area?:1
+Monaco:Vatican City:Nauru:Malta
+multiplechoice:Brazil is located in which continent?:0
+South America:Africa:Asia:Europe
+multiplechoice:Which continent is the least populated?:3
+Asia:Europe:Australia:Antarctica
+multiplechoice:Which country is both a continent and an island?:3
+Madagascar:Greenland:Iceland:Australia
+multiplechoice:The Panama Canal is located in which continent?:2
+North America:South America:Central America:Europe
+-
+History:Ancient Civilizations
+multiplechoice:Which ancient civilization built the Great Pyramid of Giza?:0
+Ancient Greece:Ancient Egypt:Ancient Rome:Ancient Mesopotamia
+fillintheblank:The city of Rome was founded in which year?:753 BCE
+multiplechoice:Who was the first emperor of China's Qin Dynasty?:1
+Confucius:Shi Huangdi:Alexander the Great:Julius Caesar
+multiplechoice:The ancient city of Babylon was located in present-day...:1
+Egypt:Iraq:Greece:Turkey
+multiplechoice:The ancient Greek city-state of Sparta was known for its...:2
+Democracy:Education:Military prowess:Trade and commerce
+-
+History:Medieval History
+multiplechoice:The Magna Carta, signed in 1215, limited the power of which English monarch?:3
+Henry VIII:Richard the Lionheart:Edward I:John
+multiplechoice:The Hundred Years' War was fought between which two countries?:0
+England and France:Spain and Portugal:France and Germany:England and Scotland
+multiplechoice:The Black Death, a devastating pandemic, spread across Europe in the...:2
+12th century:13th century:14th century:15th century
+multiplechoice:The Ottoman Empire was founded in the early...:1
+11th century:13th century:15th century:17th century
+multiplechoice:Joan of Arc played a significant role in the...:0
+Hundred Years' War:Crusades:Wars of the Roses:Reconquista
+-
+History:Age of Exploration
+fillintheblank:Christopher Columbus first reached the Americas in the year?:1492
+multiplechoice:Who was the first European explorer to reach India by sea?:0
+Vasco da Gama:Ferdinand Magellan:Christopher Columbus:Marco Polo
+multiplechoice:The Treaty of Tordesillas, signed in 1494, divided newly discovered lands between which two countries?:0
+Spain and Portugal:England and France:Italy and Austria:Netherlands and Belgium
+multiplechoice:The conquistadors were Spanish explorers who conquered...:3
+North America:Africa:Asia:South America
+multiplechoice:The first circumnavigation of the globe was completed by...:0
+Ferdinand Magellan:Vasco da Gama:Christopher Columbus:Amerigo Vespucci
+-
+History:Industrial Revolution
+multiplechoice:The Industrial Revolution began in which country?:2
+United States:France:England:Germany
+multiplechoice:Who invented the spinning jenny, a key advancement in textile production?:2
+James Watt:Samuel Morse:James Hargreaves:Alexander Graham Bell
+multiplechoice:The steam engine was improved and popularized by...:0
+James Watt:Thomas Edison:Henry Ford:Alexander Graham Bell
+multiplechoice:The telegraph was invented by...:0
+Samuel Morse:Alexander Graham Bell:Thomas Edison:Eli Whitney
+multiplechoice:The Crystal Palace, built for the Great Exhibition of 1851, was located in...:0
+London:Paris:New York:Berlin
+-
+History:World Wars
+fillintheblank:World War I began in which year?:1914
+multiplechoice:The Treaty of Versailles officially ended which conflict?:0
+World War I:World War II:Korean War:Vietnam War
+multiplechoice:The Battle of Stalingrad, a turning point in World War II, took place in which country?:2
+Germany:France:Soviet Union:Italy
+multiplechoice:D-Day, the Allied invasion of Normandy, occurred in...:1
+1943:1944:1945:1946
+multiplechoice:The dropping of atomic bombs on Hiroshima and Nagasaki occurred in which year?:2
+1941:1943:1945:1947
+-
+Movies:Classic Films
+multiplechoice:Who directed the movie "Citizen Kane"?:1
+Alfred Hitchcock:Orson Welles:Stanley Kubrick:Martin Scorsese
+multiplechoice:Which classic film features the line, "Here's looking at you, kid"?:0
+Casablanca:Gone with the Wind:Singin' in the Rain:It's a Wonderful Life
+multiplechoice:Who played the lead role in "Gone with the Wind"?:2
+Audrey Hepburn:Marilyn Monroe:Vivien Leigh:Katharine Hepburn
+multiplechoice:"The Wizard of Oz" was released in which year?:0
+1939:1941:1950:1960
+multiplechoice:Which actor portrayed Atticus Finch in the film adaptation of "To Kill a Mockingbird"?:0
+Gregory Peck:James Stewart:Cary Grant:Spencer Tracy
+-
+Movies:Modern Classics
+multiplechoice:Who directed the movie "Pulp Fiction"?:0
+Quentin Tarantino:Martin Scorsese:Steven Spielberg:Christopher Nolan
+multiplechoice:Which film won the Academy Award for Best Picture in 1994?:0
+Forrest Gump:The Shawshank Redemption:Schindler's List:Braveheart
+multiplechoice:Who played the character Neo in "The Matrix" trilogy?:0
+Keanu Reeves:Tom Cruise:Leonardo DiCaprio:Will Smith
+multiplechoice:"The Silence of the Lambs" features which iconic character?:0
+Hannibal Lecter:Norman Bates:Michael Myers:Freddy Krueger
+multiplechoice:Who directed the film "Goodfellas"?:0
+Martin Scorsese:Francis Ford Coppola:Brian De Palma:Quentin Tarantino
+-
+Movies:Animated Movies
+multiplechoice:Which Disney movie features the song "Let It Go"?:1
+The Lion King:Frozen:Aladdin:Beauty and the Beast
+multiplechoice:Who provided the voice for Woody in the "Toy Story" movies?:0
+Tom Hanks:Tim Allen:Billy Crystal:Robin Williams
+multiplechoice:"Spirited Away" is a critically acclaimed animated film from which country?:0
+Japan:France:United States:China
+multiplechoice:Which studio produced the movie "Shrek"?:1
+Disney:DreamWorks Animation:Pixar Animation Studios:Warner Bros. Animation
+multiplechoice:In "The Incredibles", what is the superhero name of Mr. Incredible's wife?:0
+Elastigirl:Violet:Mirage:Frozone
+-
+Movies:Sci-Fi and Fantasy
+multiplechoice:Who directed the 1977 film "Star Wars... A New Hope"?:0
+George Lucas:Steven Spielberg:Ridley Scott:James Cameron
+multiplechoice:"Blade Runner" is based on a novel by which author?:0
+Philip K. Dick:Isaac Asimov:Arthur C. Clarke:Ray Bradbury
+multiplechoice:Who played the character Harry Potter in the film series?:0
+Daniel Radcliffe:Rupert Grint:Emma Watson:Tom Felton
+multiplechoice:In "The Lord of the Rings" trilogy, who is the rightful heir to the throne of Gondor?:1
+Frodo Baggins:Aragorn:Legolas:Gandalf
+multiplechoice:Which film features a character named Neo who discovers the truth about reality?:0
+The Matrix:Inception:Interstellar:The Terminator
+-
+Movies:Action and Adventure
+multiplechoice:Who directed the film "Jurassic Park"?:0
+Steven Spielberg:James Cameron:Ridley Scott:Christopher Nolan
+multiplechoice:Which actor portrays the character James Bond in the film series?:0
+Daniel Craig:Pierce Brosnan:Sean Connery:Roger Moore
+multiplechoice:"Indiana Jones and the Last Crusade" was released in which year?:2
+1981:1984:1989:1991
+multiplechoice:Who played the character Trinity in "The Matrix" trilogy?:0
+Carrie-Anne Moss:Charlize Theron:Jennifer Lawrence:Angelina Jolie
+multiplechoice:"Die Hard" is set primarily in which location?:0
+Office building:Airport:Shopping mall:Train station
+-
+Sports:Football (Soccer)
+multiplechoice:Which country won the FIFA World Cup in 2018?:2
+Germany:Brazil:France:Argentina
+multiplechoice:Who is the all-time top scorer in the English Premier League?:1
+Wayne Rooney:Alan Shearer:Thierry Henry:Cristiano Ronaldo
+multiplechoice:In which country is FC Barcelona based?:0
+Spain:Italy:Germany:England
+multiplechoice:Who won the UEFA Champions League in the 2019-2020 season?:1
+Liverpool:Bayern Munich:Real Madrid:Chelsea
+multiplechoice:Which player has won the Ballon d'Or award the most times?:0
+Lionel Messi:Cristiano Ronaldo:Michel Platini:Johan Cruyff
+-
+Sports:Basketball
+multiplechoice:Who is the NBA's all-time leading scorer?:3
+LeBron James:Michael Jordan:Kobe Bryant:Kareem Abdul-Jabbar
+multiplechoice:Which team has won the most NBA championships?:1
+Boston Celtics:Los Angeles Lakers:Chicago Bulls:Golden State Warriors
+multiplechoice:Who is the only player to have scored 100 points in a single NBA game?:3
+LeBron James:Kobe Bryant:Michael Jordan:Wilt Chamberlain
+multiplechoice:The Harlem Globetrotters are known for their expertise in which sport?:0
+Basketball:Football:Soccer:Baseball
+multiplechoice:Who won the NBA Most Valuable Player (MVP) award for the 2019-2020 season?:0
+Giannis Antetokounmpo:LeBron James:James Harden:Kawhi Leonard
+-
+Sports:Tennis
+multiplechoice:Who holds the record for the most Grand Slam singles titles in tennis history?:1
+Rafael Nadal:Roger Federer:Novak Djokovic:Serena Williams
+fillintheblank:Wimbledon is played on __________ courts.:grass
+yesno:Martina Hingis was the youngest player to ever win a Grand Slam singles title.:true
+multiplechoice:Who won the most recent Wimbledon Men's Singles title?:1
+Novak Djokovic:Rafael Nadal:Roger Federer:Andy Murray
+multiplechoice:Which player holds the record for the most consecutive weeks as the ATP World No. 1?:1
+Novak Djokovic:Roger Federer:Rafael Nadal:Pete Sampras
+-
+Sports:American Football
+multiplechoice:Who won the most recent Super Bowl?:1
+Kansas City Chiefs:Tampa Bay Buccaneers:New England Patriots:Los Angeles Rams
+multiplechoice:Which NFL team has won the most Super Bowl championships?:1
+Dallas Cowboys:New England Patriots:Pittsburgh Steelers:San Francisco 49ers
+yesno:Drew Brees is the all-time passing yards leader in the NFL:true
+fillintheblank:College football team, ___ ___ ___ has won the most national championships.:Alabama Crimson Tide
+fillintheblank:Who holds the record for the most rushing yards in a single NFL season? ___ ___:Eric Dickerson
+-
+Sports:Olympics
+multiplechoice:In which city were the first modern Olympic Games held?:1
+Paris:Athens:London:Rome
+yesno:Athlete Usain Bolt has won the most Olympic gold medals in history.:false
+multiplechoice:What is the symbol of the Olympic Games?:3
+Dove:Torch:Laurel wreath:Rings
+yesno:In 1924 were the first Winter Olympic Games.:true
+fillintheblank:The Summer Olympics of 2020 were postponed to 2021 due to ____:COVID
