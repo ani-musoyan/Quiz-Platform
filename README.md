@@ -8,5 +8,6 @@ This is a quiz platform where users can take a quiz on 4 different topics: Geogr
 
 We used https://www.oracle.com/java/ as a source of information.
 Thank you in advance!
+
 Authors: Areg Sargsyan, Ani Musoyan, Ani Mkhitaryan
 
